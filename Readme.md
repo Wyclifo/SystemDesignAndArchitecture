@@ -27,3 +27,15 @@ A minimal, in-memory Python demonstration of common system-design patterns used 
 
 ```bash
 python rent_payment_demo.py
+```
+    
+## Related Resources          ← put it here
+
+- [Little’s Law](https://en.wikipedia.org/wiki/Little%27s_law)
+- [Cache-Aside Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside)
+- [Idempotency in APIs](https://stripe.com/docs/api/idempotent_requests)
+- [Outbox Pattern](https://microservices.io/patterns/data/transactional-outbox.html)
+- [Message Queues & At-Least-Once Delivery](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
+
+## License
+MIT – free to use for learning and teaching.
