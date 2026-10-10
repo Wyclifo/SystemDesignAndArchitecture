@@ -36,6 +36,7 @@ python rent_payment_demo.py
 - [Idempotency in APIs](https://stripe.com/docs/api/idempotent_requests)
 - [Outbox Pattern](https://microservices.io/patterns/data/transactional-outbox.html)
 - [Message Queues & At-Least-Once Delivery](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
+- [PDF Resource  ](https://1drv.ms/w/c/dde07b410c88c2e7/IQDpW4xW8-nWQr02z8fosNZoAT9H_QKEh59LYlEq-QBQPzk?e=P2BcZa)
 
 ## License
 MIT – free to use for learning and teaching.
