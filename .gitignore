@@ -1,0 +1,5 @@
+*.env
+*.txt
+*.pptx
+*.docx
+__pycache__
