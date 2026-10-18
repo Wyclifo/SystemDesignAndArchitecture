@@ -40,3 +40,10 @@ python rent_payment_demo.py
 
 ## License
 MIT – free to use for learning and teaching.
+
+## Meeting link
+[System Design and Architecture Course](https://profilenextjs.vercel.app/)
+Presented by Wyclif Ouma Mboya 
+[Tuesday, October 20](https://calendar.google.com/calendar/u/0/r/day/2026/10/20?cid=Y2FsZW5kYXIuY29tXzY1aDhmMnRhcHI5ZnNiMXVvNWd2cXZoamd0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) · 5:00 – 7:00pm
+Time zone: Africa/Nairobi
+[Google Meet joining info](https://meet.google.com/cys-mmnz-kjz) 
