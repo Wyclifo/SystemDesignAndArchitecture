@@ -26,7 +26,7 @@ A minimal, in-memory Python demonstration of common system-design patterns used 
 ## Quick Start
 
 ```bash
-python rent_payment_demo.py
+python system_design_demo.py
 ```
     
 ## Related Resources          ← put it here
